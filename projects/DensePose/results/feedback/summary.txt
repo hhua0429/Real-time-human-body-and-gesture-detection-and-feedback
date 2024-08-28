@@ -1,0 +1,20 @@
+Final Summary:**
+
+Summarize your findings by:
+
+- Listing the main differences in alignment, weight distribution, and balance between the actual and standard plank poses.
+- Pointing out the strengths and weaknesses of the actual pose.
+- Providing a clear set of corrective actions for the individual to improve their plank pose based on the DensePose analysis.
+
+**Example Summary:**
+
+"The DensePose output indicates that the actual plank pose has good alignment in the head and shoulders, with both shoulders stacked above the wrists. However, the hips are slightly sagging, which suggests the glutes and core are not fully engaged. The legs are straight, but the ankles are sagging, which may put additional strain on the ankles and calves.
+
+To correct these weaknesses, the individual should focus on:
+
+1. Activating the glutes and core to lift the hips up towards the ceiling.
+2. Engaging the calves by flexing the feet.
+
+By making these adjustments, the individual can achieve a more effective and safer plank pose."
+
+Remember that these are general guidelines, and the specific corrective recommendations will depend on the exact pose deviations identified by the DensePose outputs.
